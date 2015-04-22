@@ -1,10 +1,6 @@
 {
   "name": "mazhekin-my-fontello",
-  "version": "1.0.0",
-  "authors": [
-    "Vasiliy Mazhekin <mazhekin@gmail.com>"
-  ],
+  "version": "0.0.1",
   "description": "The custom library that is taken from template COCO",
-  "main": "css/fontello.css",
-  "license": "MIT"
+  "main": "css/fontello.css"
 }
